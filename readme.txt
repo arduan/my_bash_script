@@ -1,6 +1,2 @@
-Hello World
-Hello Vitalik
-Hello Sveta
-requests
-
-
+Здесь собираю, как мне кажется полезные Bash скрипты.
+Где сам написал, где нашел в сети.
